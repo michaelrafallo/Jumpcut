@@ -1,0 +1,32 @@
+@media only screen and (max-width: 968px) {
+    h1 { 
+        font-size: 2.4em !important; 
+        line-height: 1.2em !important;
+    }
+    h3 { 
+        font-size: 1em !important; 
+    }
+}
+@media only screen and (max-width: 768px) {
+    body { font-size: 14px; }
+    .col-sm-12 {
+        width: 100% !important;
+    }
+    .logo {
+        text-align: center;
+    }
+    .students-profile .col-sm-12 {
+        margin: 0 0 20px !important;
+        text-align: center;
+    }
+    h1 { 
+        font-size: 2.5em !important; 
+    }
+    h2 { 
+        font-size: 1.5em !important; 
+    }
+    .head-title { text-align: center; }
+}
+@media only screen and (max-width: 700px) {
+    .modal-content { margin: 10% 20px; }
+}
